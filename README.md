@@ -56,6 +56,12 @@ Mera-Kafka is an educational, Java-based message-broker project inspired by Apac
 
 The broker stores message data locally. ZooKeeper is used for cluster coordination and leader/replica metadata; it is not the message store.
 
+### Interactive architecture diagram
+
+Once GitHub Pages is enabled for this repository, the interactive diagram will be available at [Mera-Kafka Architecture](https://abhimittal1062.github.io/MeraKafka/). Configure Pages to deploy from the `main` branch and `/docs` folder.
+
+For a local copy, open [`docs/index.html`](docs/index.html) in a browser.
+
 ## Prerequisites
 
 Install or make available:
